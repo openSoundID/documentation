@@ -1,0 +1,24 @@
+---
+   birds_list:
+     - bird_record:
+         id: 1000
+         enName: "Great Tit"
+         frName: "Mésange charbonnière"
+         Genre: "Parus"
+         Espece: "major"
+         claims:
+           - claim_record:
+               q: a
+               cnt:
+                 - France
+     - bird_record:
+         id : 2000
+         enName: "Eurasian Blackcap"
+         frName: "Fauvette à tête noire"
+         Genre: "Sylvia"
+         Espece: "atricapilla"
+         claims:
+           - claim_record:
+               q: a
+               cnt:
+                 - France
