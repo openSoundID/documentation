@@ -1,1 +1,1 @@
-# documentation of openSoundID project.
+# Documentation of openSoundID project.
